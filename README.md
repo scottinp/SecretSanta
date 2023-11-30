@@ -1,5 +1,5 @@
 # SecretSanta
-Discord bot that organizes a Secret Santa event, allowing users to register, submit their wishlists, and get randomly assigned a person to gift.
+Discord bot utilizing nextcord (API wrapper for Discord) that organizes a Secret Santa event, allowing users to register, submit their wishlists, and get randomly assigned a person to gift.
 
 
 How to use Discord Bot
